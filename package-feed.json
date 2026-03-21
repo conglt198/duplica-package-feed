@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "broadcast_id": "pkg-broadcast-hello-world-20260321182407",
+      "broadcast_id": "pkg-broadcast-hello-world-2-20260321182628",
       "package_id": null,
       "type": "announcement",
-      "title": "Hello world",
-      "summary": "Chưa có gì mà thông báo",
+      "title": "Hello world 2",
+      "summary": "Chưa có gì mà thông báo  2",
       "priority": "urgent",
       "version": 1,
-      "created_at": "2026-03-21T18:24:07.973Z",
+      "created_at": "2026-03-21T18:26:28.726Z",
       "expires_at": null,
       "preview_image_url": null,
       "manifest_url": null,
