@@ -1,0 +1,24 @@
+{
+  "id": "workflow-pack-new-member-001",
+  "type": "workflow_pack",
+  "version": 1,
+  "items": [
+    {
+      "title": "Nhắn chào mừng",
+      "actionType": "manual_confirm",
+      "instructionText": "Gửi tin nhắn chào mừng và xác nhận thời gian gọi nhanh."
+    },
+    {
+      "title": "Chia sẻ Power Hour",
+      "actionType": "in_app",
+      "targetRoute": "/workspace/power-hour",
+      "instructionText": "Mở Power Hour và giới thiệu cách dùng trong 45 phút."
+    },
+    {
+      "title": "Mở thư viện đào tạo",
+      "actionType": "in_app",
+      "targetRoute": "/workspace/training",
+      "instructionText": "Chọn 1 module đào tạo phù hợp cho ngày đầu tiên."
+    }
+  ]
+}

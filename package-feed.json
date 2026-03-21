@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "broadcast_id": "pkg-broadcast-001",
+      "package_id": "content-pack-sov-001",
+      "type": "content_pack",
+      "title": "Gói nội dung SOV",
+      "summary": "3 bài đăng và 2 kịch bản mời.",
+      "priority": "important",
+      "version": 1,
+      "created_at": "2026-03-21T08:00:00.000Z",
+      "expires_at": null,
+      "preview_image_url": null,
+      "manifest_url": "/shared-catalog/package-manifests/content-pack-sov-001.json",
+      "cta_label": "Nhận gói"
+    },
+    {
+      "broadcast_id": "pkg-broadcast-002",
+      "package_id": "training-pack-followup-001",
+      "type": "training_pack",
+      "title": "Gói đào tạo Follow-up",
+      "summary": "1 module ngắn để follow-up tự tin hơn.",
+      "priority": "normal",
+      "version": 1,
+      "created_at": "2026-03-21T09:00:00.000Z",
+      "expires_at": null,
+      "preview_image_url": null,
+      "manifest_url": "/shared-catalog/package-manifests/training-pack-followup-001.json",
+      "cta_label": "Nhận gói"
+    },
+    {
+      "broadcast_id": "pkg-broadcast-003",
+      "package_id": null,
+      "type": "announcement",
+      "title": "Nhắc kiểm tra feed mỗi sáng",
+      "summary": "Vào app, làm mới feed và nhận gói mới khi cần.",
+      "priority": "normal",
+      "version": 1,
+      "created_at": "2026-03-21T10:00:00.000Z",
+      "expires_at": null,
+      "preview_image_url": null,
+      "manifest_url": null,
+      "cta_label": "Đã xem"
+    },
+    {
+      "broadcast_id": "pkg-broadcast-004",
+      "package_id": "product-catalog-lumispa-001",
+      "type": "product_catalog",
+      "title": "Catalog LumiSpa mini",
+      "summary": "2 sản phẩm mẫu để đưa vào app nhanh.",
+      "priority": "important",
+      "version": 1,
+      "created_at": "2026-03-21T11:00:00.000Z",
+      "expires_at": null,
+      "preview_image_url": null,
+      "manifest_url": "/shared-catalog/package-manifests/product-catalog-lumispa-001.json",
+      "cta_label": "Nhận gói"
+    },
+    {
+      "broadcast_id": "pkg-broadcast-005",
+      "package_id": "workflow-pack-new-member-001",
+      "type": "workflow_pack",
+      "title": "Quy trình member mới 3 bước",
+      "summary": "3 bước onboarding nhanh để áp dụng ngay.",
+      "priority": "normal",
+      "version": 1,
+      "created_at": "2026-03-21T12:00:00.000Z",
+      "expires_at": null,
+      "preview_image_url": null,
+      "manifest_url": "/shared-catalog/package-manifests/workflow-pack-new-member-001.json",
+      "cta_label": "Nhận gói"
+    },
+    {
+      "broadcast_id": "pkg-broadcast-006",
+      "package_id": "config-update-default-font-large",
+      "type": "config_update",
+      "title": "Cấu hình cỡ chữ lớn",
+      "summary": "Áp cỡ chữ lớn mặc định cho thiết bị này.",
+      "priority": "normal",
+      "version": 1,
+      "created_at": "2026-03-21T12:30:00.000Z",
+      "expires_at": null,
+      "preview_image_url": null,
+      "manifest_url": "/shared-catalog/package-manifests/config-update-default-font-large.json",
+      "cta_label": "Áp dụng"
+    },
+    {
+      "broadcast_id": "pkg-broadcast-007",
+      "package_id": null,
+      "type": "app_update_notice",
+      "title": "Có bản app mới để cài",
+      "summary": "Mở link phát hành để xem bản cập nhật gần nhất.",
+      "priority": "important",
+      "version": 1,
+      "created_at": "2026-03-21T13:00:00.000Z",
+      "expires_at": null,
+      "preview_image_url": null,
+      "manifest_url": null,
+      "cta_label": "Xem bản mới"
+    }
+  ]
+}

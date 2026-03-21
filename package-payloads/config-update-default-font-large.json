@@ -1,0 +1,11 @@
+{
+  "id": "config-update-default-font-large",
+  "type": "config_update",
+  "version": 1,
+  "items": [
+    {
+      "configType": "app_preferences",
+      "fontScale": "large"
+    }
+  ]
+}

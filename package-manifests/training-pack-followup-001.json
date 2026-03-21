@@ -1,0 +1,30 @@
+{
+  "id": "training-pack-followup-001",
+  "type": "training_pack",
+  "version": 1,
+  "title": "Gói đào tạo Follow-up",
+  "summary": "1 module ngắn để follow-up tự tin hơn.",
+  "payload_url": "/shared-catalog/package-payloads/training-pack-followup-001.json",
+  "hash": "sha256:1a6ca391c3dd2ec15b3560b881f45bfab0cf445c764e9d260d61734f16cd715c",
+  "size": 595,
+  "min_app_version": "0.2.0",
+  "dependencies": [],
+  "tags": ["training", "followup"],
+  "items": [
+    {
+      "title": "Follow-up tự nhiên sau lần mời đầu",
+      "description": "Module ngắn giúp follow-up mà không tạo áp lực.",
+      "level": 1,
+      "lessons": [
+        {
+          "title": "Khi nào nên follow-up",
+          "description": "Nhận biết tín hiệu phù hợp để nhắn lại."
+        },
+        {
+          "title": "3 mẫu follow-up ngắn",
+          "description": "Các mẫu câu nhẹ, không gây áp lực."
+        }
+      ]
+    }
+  ]
+}

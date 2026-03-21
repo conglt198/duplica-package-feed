@@ -1,0 +1,22 @@
+{
+  "id": "training-pack-followup-001",
+  "type": "training_pack",
+  "version": 1,
+  "items": [
+    {
+      "title": "Follow-up tự nhiên sau lần mời đầu",
+      "description": "Module ngắn giúp follow-up mà không tạo áp lực.",
+      "level": 1,
+      "lessons": [
+        {
+          "title": "Khi nào nên follow-up",
+          "description": "Nhận biết tín hiệu phù hợp để nhắn lại."
+        },
+        {
+          "title": "3 mẫu follow-up ngắn",
+          "description": "Các mẫu câu nhẹ, không gây áp lực."
+        }
+      ]
+    }
+  ]
+}

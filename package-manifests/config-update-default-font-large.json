@@ -1,0 +1,19 @@
+{
+  "id": "config-update-default-font-large",
+  "type": "config_update",
+  "version": 1,
+  "title": "Cấu hình cỡ chữ lớn",
+  "summary": "Áp cỡ chữ lớn làm mặc định cho thiết bị này.",
+  "payload_url": "/shared-catalog/package-payloads/config-update-default-font-large.json",
+  "hash": "sha256:0436e88ee67736d87d295e495f106362dcb735fb0faa8e65c2bbf3f8c18dd7ee",
+  "size": 186,
+  "min_app_version": "0.2.0",
+  "dependencies": [],
+  "tags": ["config", "accessibility"],
+  "items": [
+    {
+      "configType": "app_preferences",
+      "fontScale": "large"
+    }
+  ]
+}

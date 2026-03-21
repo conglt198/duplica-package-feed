@@ -1,0 +1,28 @@
+{
+  "id": "content-pack-sov-001",
+  "type": "content_pack",
+  "version": 1,
+  "items": [
+    {
+      "title": "Bài đăng mở đầu SOV",
+      "kind": "post",
+      "contentType": "caption",
+      "summary": "Dùng khi muốn mở nhịp chia sẻ nhẹ nhàng.",
+      "body": "Em đang dùng thử một nhịp sống mới với System 7. Mỗi ngày chỉ cần làm đúng vài việc quan trọng là thấy khác hẳn."
+    },
+    {
+      "title": "Kịch bản mời 1-1",
+      "kind": "script",
+      "contentType": "text_template",
+      "summary": "Mẫu tin nhắn mời trò chuyện riêng.",
+      "body": "Chị thấy bài này hợp với em nên gửi thử. Nếu em muốn chị chia sẻ cách chị đang làm từng ngày thì mình nói chuyện 10 phút nhé."
+    },
+    {
+      "title": "Bài đăng follow-up",
+      "kind": "post",
+      "contentType": "text_template",
+      "summary": "Mẫu follow-up sau khi người nhận đã xem bài.",
+      "body": "Nếu em thấy chủ đề này hợp, chị có thể gửi em checklist 3 bước để bắt đầu nhẹ nhàng."
+    }
+  ]
+}

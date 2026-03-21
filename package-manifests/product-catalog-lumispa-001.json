@@ -1,0 +1,35 @@
+{
+  "id": "product-catalog-lumispa-001",
+  "type": "product_catalog",
+  "version": 1,
+  "title": "Catalog LumiSpa mini",
+  "summary": "2 sản phẩm mẫu để thêm vào app ngay.",
+  "payload_url": "/shared-catalog/package-payloads/product-catalog-lumispa-001.json",
+  "hash": "sha256:318f1808fce4bd593b0d50843eba2cb32bb55a85a3aa2725946896628ce43371",
+  "size": 577,
+  "min_app_version": "0.2.0",
+  "dependencies": [],
+  "tags": ["product", "lumispa"],
+  "items": [
+    {
+      "sku": "100201",
+      "title": "LumiSpa iO",
+      "retailPrice": 6200000,
+      "memberPrice": 5500000,
+      "pv": 200,
+      "csv": 40,
+      "sb": 20,
+      "productUrl": "https://example.com/lumispa-io"
+    },
+    {
+      "sku": "100202",
+      "title": "LumiSpa Treatment Cleanser",
+      "retailPrice": 980000,
+      "memberPrice": 850000,
+      "pv": 35,
+      "csv": 7,
+      "sb": 3,
+      "productUrl": "https://example.com/lumispa-cleanser"
+    }
+  ]
+}
