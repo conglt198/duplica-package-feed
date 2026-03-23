@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "234e2d43-10ca-4cfd-b016-6619d2fa473a",
+      "title": "Liên hoan",
+      "body": "Liên hoan mừng thắng lợi ORS",
+      "type": "notice",
+      "priority": "urgent",
+      "expires_at": "2026-03-23T18:34",
+      "sender_name": "Lê Thành Công",
+      "cta_label": null,
+      "cta_target": null,
+      "created_at": "2026-03-23T11:32:40.768Z",
+      "updated_at": "2026-03-23T11:32:47.633Z"
+    },
+    {
       "id": "d494ce6f-68af-4554-a765-178fcae3ea50",
       "title": "Khuyến mãi",
       "body": "Đang có khuyến mãi",
